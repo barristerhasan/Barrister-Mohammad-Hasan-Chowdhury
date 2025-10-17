@@ -1,11 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
-<urlset xmlns="[suspicious link removed]">
-<!-- Main Home Page -->
-<url>
-<loc>https://www.google.com/search?q=https://barristerhasan.github.io/Barrister-Mohammad-Hasan-Chowdhury/</loc>
-<lastmod>2025-10-17</lastmod>
-<changefreq>weekly</changefreq>
-<priority>1.0</priority>
-</url>
+  <!-- Homepage -->
+  <url>
+    <loc>https://barristerhasan.github.io/Barrister-Mohammad-Hasan-Chowdhury</loc>
+    <lastmod>2025-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- About Page -->
+  <url>
+    <loc>https://barristerhasan.github.io/Barrister-Mohammad-Hasan-Chowdhury/about</loc>
+    <lastmod>2025-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Practice Areas -->
+  <url>
+    <loc>https://barristerhasan.github.io/Barrister-Mohammad-Hasan-Chowdhury/practice-areas</loc>
+    <lastmod>2025-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog or Insights -->
+  <url>
+    <loc>https://barristerhasan.github.io/Barrister-Mohammad-Hasan-Chowdhury/blog</loc>
+    <lastmod>2025-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Contact Page -->
+  <url>
+    <loc>https://barristerhasan.github.io/Barrister-Mohammad-Hasan-Chowdhury/contact</loc>
+    <lastmod>2025-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Legal Articles -->
+  <url>
+    <loc>https://barristerhasan.github.io/Barrister-Mohammad-Hasan-Chowdhury/legal-articles</loc>
+    <lastmod>2025-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
 </urlset>
+
+
